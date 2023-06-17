@@ -12,6 +12,15 @@ Encrypt your data. It is important to encrypt your data at rest and in transit. 
 Monitor your cloud environment. It is important to monitor your cloud environment for security threats. This includes using cloud security tools to detect and respond to threats.
 Stay up-to-date on the latest security threats. It is important to stay up-to-date on the latest security threats. This will help you to protect your cloud environment from emerging threats.
 
+# Contents
+    
+- [Why Cloud Security](https://github.com/yuvarajmms/cloud-security/edit/main/README.md#why-cloud-security)
+- [Identity and access management (IAM)](https://github.com/yuvarajmms/cloud-security/edit/main/README.md#identity-and-access-management-iam)
+- [Cloud Infrastructure Protection](https://github.com/yuvarajmms/cloud-security/edit/main/README.md#cloud-infrastructure-protection)
+- [Data Protection](https://github.com/yuvarajmms/cloud-security/edit/main/README.md#data-protection)
+- [Zero Trust in Cloud Security](https://github.com/yuvarajmms/cloud-security/edit/main/README.md#zero-trust-in-cloud-security)
+- [Cloud Security Documentation](https://github.com/yuvarajmms/cloud-security/edit/main/README.md#cloud-security-documentation)
+
 
 # Why Cloud Security
 
@@ -30,6 +39,14 @@ Identity and access management (IAM) is a framework of policies and technologies
 * <a href="https://aws.amazon.com/iam/?trk=cf28fddb-12ed-4ffd-981b-b89c14793bf1&sc_channel=ps&ef_id=CjwKCAjwkLCkBhA9EiwAka9QRmmsLiEiAmTFxJxIbnGrUhb5jPCKahQTnnXdSa8FJ3VarJNvNSqflxoCf78QAvD_BwE:G:s&s_kwcid=AL!4422!3!652240143562!e!!g!!amazon%20iam!19878797467!148973348604" target="_blank">AWS IAM</a> Securely manage identities and access to AWS services and resources.
  * <a href="https://learn.microsoft.com/en-us/azure/active-directory/fundamentals/ops-guide-iam" target="_blank">Azure IAM</a> Secure access to your resources with Azure identity and access management solutions.
 * <a href="https://cloud.google.com/iam" target="_blank">Google Cloud IAM</a> Fine-grained access control and visibility for centrally managing Google cloud resources.
+
+# Cloud Infrastructure Protection
+
+Cloud infrastructure protection is the practice of securing cloud-based resources, such as servers, storage, and networks. It is a critical aspect of cloud security and is essential for protecting the confidentiality, integrity, and availability of cloud-based data and applications.
+
+- <a href="https://docs.aws.amazon.com/wellarchitected/latest/security-pillar/infrastructure-protection.html">AWS Infrastructure Protection</a> AWS Holistic guidelines and trainings to help you prevent attacks
+- <a href="https://learn.microsoft.com/en-us/azure/security/fundamentals/infrastructure">Azure Infrastructure Security</a> Securing the Azure infrastructure
+- <a href="https://cloud.google.com/docs/security/infrastructure/design">Google Infrastructure Security</a> Google Cloud's global technical infrastructure
 
 # Data Protection
 
