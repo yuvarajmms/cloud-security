@@ -73,3 +73,6 @@ Zero trust is a departure from traditional security models, which rely on perime
 - <a href="https://azure.microsoft.com/en-us/explore/security">Azure Cloud Security</a> Strengthen your security posture with Azure.
  - <a href="https://cloud.google.com/security">Google Cloud Security</a> Your security transformation: safer with Google technology and expertise.
 
+# Note
+
+Please note that the information provided is a general overview and may not capture every detail or feature of each cloud. It's important to refer to the official documentation and websites of each cloud provider for the most up-to-date and comprehensive information regarding their Security offerings.
