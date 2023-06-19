@@ -40,6 +40,23 @@ Identity and access management (IAM) is a framework of policies and technologies
  * <a href="https://learn.microsoft.com/en-us/azure/active-directory/fundamentals/ops-guide-iam" target="_blank">Azure IAM</a> Secure access to your resources with Azure identity and access management solutions.
 * <a href="https://cloud.google.com/iam" target="_blank">Google Cloud IAM</a> Fine-grained access control and visibility for centrally managing Google cloud resources.
 
+# Detection
+
+Security detection in the cloud refers to the process of identifying and responding to security threats and incidents within a cloud environment. Cloud providers offer various security detection mechanisms and services to help customers protect their data and applications. 
+Some common security detection capabilities in the cloud:
+1. Intrusion Detection and Prevention Systems (IDS/IPS)
+2. Log Management and Analysis
+3. Threat Intelligence
+4. Security Analytics
+5. Vulnerability Scanning
+6. Behavioral Analysis
+6. File Integrity Monitoring
+7. Distributed Denial of Service (DDoS) Protection
+8. Endpoint Detection and Response (EDR)
+- <a href="https://docs.aws.amazon.com/wellarchitected/latest/security-pillar/detection.html">AWS Detection</a> Security Pillar
+- <a href="https://azure.microsoft.com/en-us/products/cognitive-services/anomaly-detector/">Azure Anomaly Detector</a> Anomaly Detection System
+- <a href="https://console.cloud.google.com/marketplace/product/cybereason-public/edr">Google Cloud</a> Cybereason Endpoint Detection and Response
+
 # Cloud Infrastructure Protection
 
 Cloud infrastructure protection is the practice of securing cloud-based resources, such as servers, storage, and networks. It is a critical aspect of cloud security and is essential for protecting the confidentiality, integrity, and availability of cloud-based data and applications.
@@ -56,6 +73,14 @@ Data protection is the process of ensuring that data is secure from unauthorized
 - <a href="https://aws.amazon.com/compliance/data-protection/">Data Protection & Privacy at AWS</a> Build with comprehensive data protection in the cloud
 - <a href="https://azure.microsoft.com/en-us/explore/trusted-cloud/privacy">Azure Data Privacy in the Trusted Cloud </a> You control your data
 - <a href="https://cloud.google.com/security/transparency">Google Cloud Transparency & Data Protection </a> Creating trust through transparency
+
+# Compliance
+
+Cloud compliance refers to adhering to regulatory, industry, and organizational standards when utilizing cloud services. Cloud providers often offer various compliance certifications and frameworks to demonstrate their commitment to security and data privacy. 
+
+- <a href="https://aws.amazon.com/compliance/programs/">AWS Compliance</a>
+- <a href="https://learn.microsoft.com/en-us/azure/compliance/">Azure Compliance</a>
+- <a href="https://cloud.google.com/security/compliance">Google Cloud Compliance</a>
 
 # Zero Trust in Cloud Security
 
