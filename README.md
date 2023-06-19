@@ -98,6 +98,20 @@ Zero trust is a departure from traditional security models, which rely on perime
 - <a href="https://azure.microsoft.com/en-us/explore/security">Azure Cloud Security</a> Strengthen your security posture with Azure.
  - <a href="https://cloud.google.com/security">Google Cloud Security</a> Your security transformation: safer with Google technology and expertise.
 
+# Open Source repositories for Cloud Security
+
+There are several open-source projects and repositories that focus on cloud security for various cloud platforms. Here are a few popular ones:
+
+1. Cloud Custodian: This is an open-source rules engine for managing and securing cloud resources across multiple cloud providers. It provides a YAML-based policy language to define security and compliance rules for resources in AWS, Azure, and Google Cloud. Repository: https://github.com/cloud-custodian/cloud-custodian
+
+2. kube-hunter: It is a security tool for Kubernetes clusters. It helps you discover security vulnerabilities in your Kubernetes infrastructure by actively scanning for weaknesses. Repository: https://github.com/aquasecurity/kube-hunter
+
+3. ScoutSuite: ScoutSuite is a security auditing tool for multi-cloud environments. It assesses the security posture of AWS, Azure, and Google Cloud by scanning for misconfigurations, best practices, and potential security risks. Repository: https://github.com/nccgroup/ScoutSuite
+
+4. TerraScan: TerraScan is a static code analysis tool for detecting security vulnerabilities in Infrastructure-as-Code (IaC) templates. It supports popular IaC frameworks like Terraform, AWS CloudFormation, and Azure Resource Manager templates. Repository: https://github.com/accurics/terrascan
+
+5. Falco: Falco is an open-source cloud-native runtime security tool. It uses behavioral rules and system call events to detect and alert on potential security threats in containerized environments, including Kubernetes clusters. Repository: https://github.com/falcosecurity/falco
+
 # Note
 
 Please note that the information provided is a general overview and may not capture every detail or feature of each cloud. It's important to refer to the official documentation and websites of each cloud provider for the most up-to-date and comprehensive information regarding their Security offerings.
