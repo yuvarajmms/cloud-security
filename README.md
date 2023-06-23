@@ -1,6 +1,8 @@
 # Cloud Security
 
-Cloud security is a broad set of policies, technologies, applications, and controls utilized to protect virtualized IP, data, applications, services, and the associated infrastructure of cloud computing.
+> A curated list of Cloud Security documentation and Open Source Projects related to it.
+
+Cloud security is a broad set of policies, technologies, applicationsope , and controls utilized to protect virtualized IP, data, applications, services, and the associated infrastructure of cloud computing.
 
 Cloud security is a shared responsibility between the cloud provider and the customer. The cloud provider is responsible for the security of the underlying infrastructure, while the customer is responsible for the security of their data and applications.
 
@@ -13,13 +15,13 @@ Monitor your cloud environment. It is important to monitor your cloud environmen
 Stay up-to-date on the latest security threats. It is important to stay up-to-date on the latest security threats. This will help you to protect your cloud environment from emerging threats.
 
 # Contents
-    
-- [Why Cloud Security](https://github.com/yuvarajmms/cloud-security/edit/main/README.md#why-cloud-security)
-- [Identity and access management (IAM)](https://github.com/yuvarajmms/cloud-security/edit/main/README.md#identity-and-access-management-iam)
-- [Cloud Infrastructure Protection](https://github.com/yuvarajmms/cloud-security/edit/main/README.md#cloud-infrastructure-protection)
-- [Data Protection](https://github.com/yuvarajmms/cloud-security/edit/main/README.md#data-protection)
-- [Zero Trust in Cloud Security](https://github.com/yuvarajmms/cloud-security/edit/main/README.md#zero-trust-in-cloud-security)
-- [Cloud Security Documentation](https://github.com/yuvarajmms/cloud-security/edit/main/README.md#cloud-security-documentation)
+
+- [Why Cloud Security](#why-cloud-security)
+- [Identity and access management (IAM)](#identity-and-access-management-iam)
+- [Cloud Infrastructure Protection](#cloud-infrastructure-protection)
+- [Data Protection](#data-protection)
+- [Zero Trust in Cloud Security](#zero-trust-in-cloud-security)
+- [Cloud Security Documentation](#cloud-security-documentation)
 
 
 # Why Cloud Security
